@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|c:\\users\\ziyis\\onedrive\\desktop\\sistema idraulico\\stazionedicontrollo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|solutionrelative:stazionedicontrollo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|c:\\users\\ziyis\\onedrive\\desktop\\sistema idraulico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|c:\\users\\ziyis\\onedrive\\desktop\\sistema idraulico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|c:\\users\\ziyis\\onedrive\\desktop\\sistema idraulico\\ascensore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C008B-10DC-4D66-9F09-32D77472EEA4}|sistema idraulico.csproj|solutionrelative:ascensore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StazioneDiControllo.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\StazioneDiControllo.cs",
+              "RelativeDocumentMoniker": "StazioneDiControllo.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\StazioneDiControllo.cs",
+              "RelativeToolTip": "StazioneDiControllo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:40:46.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ascensore.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\Ascensore.cs",
+              "RelativeDocumentMoniker": "Ascensore.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\Ascensore.cs",
+              "RelativeToolTip": "Ascensore.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:25:04.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:24:49.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:47:00.452Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

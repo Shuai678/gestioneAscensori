@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+q2UpOFRXFnG3k8ZipFX2rpSPmz9NeRv/1scio7ziHB/5aPsVP6KDTPooXTGcyPDESc4JwUY0TeJ0IIOBCXQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\sistema idraulico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
