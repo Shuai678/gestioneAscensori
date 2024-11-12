@@ -13,7 +13,7 @@ namespace sistema_idraulico
         public int capacitaMax;
         public int speedMax;
         public int posizioneAttuale=0;
-        public int MaxFloor = 20;
+        public int maxFloor = 20;
 
         public Ascensore(string serialNumber, string produttore, int capacitaMax, int speedMax, int poszioneAttuale)
         {
@@ -48,11 +48,16 @@ namespace sistema_idraulico
             get { return posizioneAttuale; }
         }
 
+        public int Maxfloor
+        {
+            get { return maxFloor; }
+        }
+        /*
         public void salire(int piani)
         {
-            if ((posizioneAttuale + piani <= MaxFloor)&& piani != posizioneAttuale )
+            if ((posizioneAttuale + piani <= maxFloor))
             {
-                posizioneAttuale += piani;
+                posizioneAttuale = piani;
             }
             else
                 return;
@@ -60,12 +65,25 @@ namespace sistema_idraulico
 
         public void scendere(int piani)
         {
-            if ((posizioneAttuale - piani >= 0) && piani != posizioneAttuale)
+            if ((posizioneAttuale - piani >= 0))
             {
-                posizioneAttuale -= piani;
+                posizioneAttuale = piani;
             }
             else
                 return;
+        }*/
+
+        public void cambiaPiano (int piani)
+        {
+            /*
+            if (posizioneAttuale + piani <= maxFloor)
+            {
+                posizioneAttuale = piani;
+            }
+            else
+                return;
+            */
+            posizioneAttuale = piani;
         }
 
         public void reset ()

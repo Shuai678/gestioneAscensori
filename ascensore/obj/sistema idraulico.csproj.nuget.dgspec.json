@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\sistema idraulico.csproj": {}
+    "C:\\Users\\ziyis\\OneDrive\\Desktop\\gestioneAscensori\\ascensore\\sistema idraulico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\sistema idraulico.csproj": {
+    "C:\\Users\\ziyis\\OneDrive\\Desktop\\gestioneAscensori\\ascensore\\sistema idraulico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\sistema idraulico.csproj",
+        "projectUniqueName": "C:\\Users\\ziyis\\OneDrive\\Desktop\\gestioneAscensori\\ascensore\\sistema idraulico.csproj",
         "projectName": "sistema idraulico",
-        "projectPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\sistema idraulico.csproj",
+        "projectPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\gestioneAscensori\\ascensore\\sistema idraulico.csproj",
         "packagesPath": "C:\\Users\\ziyis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\sistema idraulico\\obj\\",
+        "outputPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\gestioneAscensori\\ascensore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ziyis\\AppData\\Roaming\\NuGet\\NuGet.Config",

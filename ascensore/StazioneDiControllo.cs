@@ -31,9 +31,9 @@ namespace sistema_idraulico
 
         public void SalireAscensore(Ascensore ascensore, int piani)
         {
-            ascensore.salire(piani);
+            ascensore.cambiaPiano(piani);
         }
-
+        /*
         public void ScendereAscensore(Ascensore ascensore, int piani)
         {
             ascensore.scendere(piani);
@@ -42,7 +42,9 @@ namespace sistema_idraulico
         public void Reset (Ascensore ascensore)
         {
             ascensore.reset();
-        }
+        }*/
+
+        
 
         public void posizioneAttuale (Ascensore ascensore)
         {
